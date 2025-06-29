@@ -3,5 +3,5 @@
 
 the model has 5 motors:
 the first (from bottom to top) rotate around the z axis
-from from second to fourth rotate around the y axis
+from second to fourth rotate around the y axis
 the fifth rotate around the x axis
